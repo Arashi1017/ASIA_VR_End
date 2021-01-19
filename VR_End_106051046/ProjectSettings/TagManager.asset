@@ -7,8 +7,6 @@ TagManager:
   - projectile
   - FxTemporaire
   - "\u9152\u74F6"
-  - big
-  - mini
   layers:
   - Default
   - TransparentFX
